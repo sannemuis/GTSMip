@@ -51,9 +51,8 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Access to GTSMip dataset
-Lala
+The datset, including full documentation, can be found on the C3S Climate Data Store: [https://doi.org/10.24381/cds.6edf04e0]. It provides provides statistical indicators of tides, storm surges and sea level that can be used to characterize global sea level in present-day conditions and also to assess changes under climate change. The indicators calculated include extreme-value indicators (e.g. return periods including confidence bounds for total water levels and surge levels), probability indicators (e.g. percentile for total water levels and surge levels). You can use the API to download with Python.
 
 <!-- LICENSE -->
 ## License
@@ -65,8 +64,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Sanne Muis - [@MuisSanne](https://twitter.com/MuisSanne) - sanne.muis@vu.nl
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+More about GTSM: [https://www.deltares.nl/en/expertise/projects/global-modelling-of-tides-and-storm-surges]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
