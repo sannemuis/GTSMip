@@ -1,39 +1,17 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
 -->
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+## About The GTSMip Project
+Within GTSMip we produced global projections of extreme sea levels, including tides and storm surges. The projections cover the period from 1950-2050 and are derived with the Global Tide and Surge Model forced with a ~25km-resolution HighResMIP climate model ensemble. The resolution of climate models is important to accurately simulate the extra-tropical storms and tropical cyclones that drive storm surges and this is is the first time that such a high-resolution ensemble is used to assess changes in future storm surges across the globe. Validation against ERA5 reanalysis (1985-2014) shows that the model performs well globally, but also reveals a clear spatial bias. The median-ensemble change of the 1 in 10-year storm surge levels from 2021-2050 compared to 1951-1980 shows changes up to 0.1 m or 20%. These changes are not uniform across the globe with decreases along the coast of Mediterranean and northern Africa and southern Australia and increases along the south coast of Australia and Alaska. There are also increases along (parts) of the coasts of northern Caribbean, eastern Africa, China and the Korean peninsula, but with less agreement among the HighResMIP ensemble. Information resulting from this study can be used to inform broad-scale assessment of coastal impacts under future climate change.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
+This pages provides the scripts that we used to produce the figures for Muis et al. (2023). We provide brief instructions on how you could access the data and run this scripts. 
 To get a local copy up and running follow these simple example steps.
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
