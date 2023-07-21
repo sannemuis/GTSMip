@@ -6,7 +6,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The GTSMip Project
-![Screenshot](images/Capture.PNG)
+![GTSMip](images/Capture.PNG)
 ### Project
 Within GTSMip we produced global projections of extreme sea levels, including tides and storm surges. This project was led by Deltares, but carried out in close collaboration between researchers from different universities and institutes. 
 
@@ -15,6 +15,8 @@ The projections cover the period from 1950-2050 and are derived with the Global 
 
 ### Results
 Validation against ERA5 reanalysis (1985-2014) shows that the model performs well globally, but also reveals a clear spatial bias. The median-ensemble change of the 1 in 10-year storm surge levels from 2021-2050 compared to 1951-1980 shows changes up to 0.1 m or 20%. These changes are not uniform across the globe with decreases along the coast of Mediterranean and northern Africa and southern Australia and increases along the south coast of Australia and Alaska. There are also increases along (parts) of the coasts of northern Caribbean, eastern Africa, China and the Korean peninsula, but with less agreement among the HighResMIP ensemble. Information resulting from this study can be used to inform broad-scale assessment of coastal impacts under future climate change.
+
+![GTSMip_ens_median](images/ensemble_mean.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
