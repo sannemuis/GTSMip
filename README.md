@@ -6,6 +6,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The GTSMip Project
+![Screenshot](images/Capture.PNG)
 ### Project
 Within GTSMip we produced global projections of extreme sea levels, including tides and storm surges. This project was led by Deltares, but carried out in close collaboration between researchers from different universities and institutes. 
 
