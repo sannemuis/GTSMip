@@ -27,14 +27,10 @@ This pages provides the scripts that we used to produce the figures for Muis et 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
 Sanne Muis - [@MuisSanne](https://twitter.com/MuisSanne) - sanne.muis@vu.nl
-
 More about GTSM: [https://www.deltares.nl/en/expertise/projects/global-modelling-of-tides-and-storm-surges]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
