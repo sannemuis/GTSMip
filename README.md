@@ -2,6 +2,7 @@
 <a name="readme-top"></a>
 <!--
 -->
+[![DOI](https://zenodo.org/badge/668636751.svg)](https://zenodo.org/badge/latestdoi/668636751)
 
 <!-- ABOUT THE PROJECT -->
 ## About The GTSMip Project
